@@ -1,0 +1,1 @@
+proc get_value {x} {global value if {$x == 0} {set value 0} else {set value 1} return $value} puts [get_value 0]
