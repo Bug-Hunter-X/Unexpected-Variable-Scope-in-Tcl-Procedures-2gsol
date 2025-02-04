@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming related to variable scope within procedures. The `bug.tcl` file shows the incorrect code, while `bugSolution.tcl` provides the corrected version.
